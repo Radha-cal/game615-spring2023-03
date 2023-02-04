@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Collectables
   - Enemy
+  - Dagger
+  - Gate
   layers:
   - Default
   - TransparentFX
